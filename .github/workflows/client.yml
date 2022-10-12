@@ -1,5 +1,6 @@
 # .github/workflows/client.yml
-name: clienton:
+name: client
+on:
   push:
     branches:
       - reference
